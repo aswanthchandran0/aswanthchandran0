@@ -1,6 +1,6 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFdQ-SsCuCBXg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728398913788?e=1745452800&v=beta&t=R82xzH_KGDd2qT1LRSn1bf9N-qQa7Mf83LIizF4C9hQ" alt="GitHub Banner" width="100%" />
 
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Aswanth!
 
 <img align="right" src="https://github.com/yourusername.png" width="200" />
 
