@@ -2,7 +2,6 @@
 
 # 👋 Hi there, I'm Aswanth!
 
-<img align="right" src="https://github.com/yourusername.png" width="200" />
 
 I'm a passionate **Full-Stack Developer** specializing in building robust web applications from the ground up. My expertise spans both frontend and backend technologies, and I love turning ideas into functional, user-friendly products.
 
@@ -13,7 +12,7 @@ I'm a passionate **Full-Stack Developer** specializing in building robust web ap
 - 🔭 I’m currently working on: [Brief description of your current project or focus]
 - 🌱 I’m currently learning: [Mention any new tech or skills you're exploring]
 - 💬 Ask me about: [Frontend development, backend architecture, APIs, etc.]
-- 📫 How to reach me: [Your email/contact info or social media links]
+- 📫 How to reach me: +91 9544826690 aswanthc26@gmail.com 
 
 ---
 
@@ -43,26 +42,17 @@ RESTful APIs, Socket.IO, WebRTC
 
 Here are some of my notable projects:
 
-### 1. **Project Name**
-- **Description**: Briefly describe the project and its purpose.
-- **Tech Stack**: List the technologies used.
-- **Live Demo**: [Link to live demo](#)
-- **Repository**: [Link to GitHub repo](#)
+1. E-Commerce Web Application
+- **Description**: Developed a user-centric e-commerce platform for clothing, featuring OTP-based registration, intuitive search, seamless navigation, and advanced admin tools. Integrated diverse payment gateways, wallet functionality, and order tracking to enhance the user experience. Included a dynamic coupon system to drive sales through strategic discounts.
+- **Tech Stack**: MERN Stack (MongoDB, Express.js, React.js, Node.js), Razorpay (Payment Gateway), RESTful APIs
+- **Live Demo**: Link to live demo
+- **Repository**: https://github.com/aswanthchandran0/eccomerce.git
 
-### 2. **Project Name**
-- **Description**: Briefly describe the project and its purpose.
-- **Tech Stack**: List the technologies used.
-- **Live Demo**: [Link to live demo](#)
-- **Repository**: [Link to GitHub repo](#)
-
----
-
-## 📈 Contributions
-
-I actively contribute to open-source projects and collaborate with the developer community. Check out my contributions:
-
-- [GitHub Profile](https://github.com/yourusername)
-- [Contribution Graph](#)
+2. Social Media Web Application
+- **Description**: Built a feature-rich social media platform enabling users to create profiles, post content, and interact via likes, comments, and follows. Implemented community-based features, including free and paid communities, exclusive content, and courses. Enhanced user engagement with real-time messaging using Socket.IO and group-based discussions. Designed an admin panel for managing users, communities, and analytics.
+- **Tech Stack**: MERN Stack (MongoDB, Express.js, React.js, Node.js), Neo4j (Graph Database), Socket.IO (Real-Time Communication)
+- **Live Demo**:https://www.greo.site/
+- **Repository**:Frontend Repo: https://github.com/aswanthchandran0/GreoFrontent-New.git | Backend Repo : https://github.com/aswanthchandran0/Greo-backend.git
 
 ---
 
@@ -70,15 +60,11 @@ I actively contribute to open-source projects and collaborate with the developer
 
 Feel free to reach out if you want to collaborate, discuss ideas, or just say hi! You can find me on:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [linkedin.com/in/yourprofile](#)
-- Twitter: [@yourhandle](#)
+- Email: [aswanthc26@gmail.com](mailto:your-email@example.com)
+- LinkedIn: [https://www.linkedin.com/in/aswanth-chandran/](#)
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 <picture>
