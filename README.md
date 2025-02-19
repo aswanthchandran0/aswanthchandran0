@@ -8,11 +8,10 @@ I'm a passionate **Full-Stack Developer** specializing in building robust web ap
 ---
 
 ## 🚀 About Me
-
-- 🔭 I’m currently working on: [Brief description of your current project or focus]
-- 🌱 I’m currently learning: [Mention any new tech or skills you're exploring]
-- 💬 Ask me about: [Frontend development, backend architecture, APIs, etc.]
-- 📫 How to reach me: +91 9544826690 aswanthc26@gmail.com 
+👨‍💻 I’m currently working with **MERN Stack**, **Node.js**, and **React.js**  
+🌱 I’m actively learning and exploring new technologies  
+💬 Ask me about **Web Development**, **Freelancing**, or anything tech-related!  
+📫 How to reach me: [aswanthc26@gmail.com](mailto:aswanthc26@gmail.com)
 
 ---
 
@@ -61,14 +60,4 @@ Here are some of my notable projects:
 Feel free to reach out if you want to collaborate, discuss ideas, or just say hi! You can find me on:
 
 - Email: [aswanthc26@gmail.com](mailto:your-email@example.com)
-- LinkedIn: [https://www.linkedin.com/in/aswanth-chandran/](#)
-
----
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+- LinkedIn: https://www.linkedin.com/in/aswanth-chandran/
